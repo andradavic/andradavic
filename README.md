@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Victor Andrade — Founder · full-stack engineer · AI agent pipelines" width="100%" />
+  <img src="./assets/banner.png" alt="Victor Andrade — Full-stack engineer · AI agent pipelines" width="100%" />
 </p>
 
 ## `~/victor $ whoami`
 
-Brazilian dev based in Badajoz, Spain. Founder and full-stack engineer who builds **AI agent pipelines** — because what matters isn't knowing the commands, it's knowing what to do with them.
+Brazilian full-stack engineer based in Badajoz, Spain. I build **AI agent pipelines** — because what matters isn't knowing the commands, it's knowing what to do with them.
 
 I work where product, engineering and AI meet: systems that **automate the boring, not the human**. No magic framework — just architecture and patience.
 
 ## What I build
 
-- **End-to-end SaaS** — Laravel + Inertia/React, from the database to the pixel.
+- **End-to-end product** — Laravel + Inertia/React, from the database to the pixel.
 - **AI agent pipelines** — systems that plan, execute and review code on their own, with a human at the right gates.
 - **Personal automation** — infrastructure that works for me while I sleep.
 
