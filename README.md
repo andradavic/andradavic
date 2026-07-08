@@ -1,33 +1,33 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Victor Andrade — Founder de SaaS · construtor de pipelines de agentes de IA" width="100%" />
+  <img src="./assets/banner.png" alt="Victor Andrade — Founder · full-stack engineer · AI agent pipelines" width="100%" />
 </p>
 
 ## `~/victor $ whoami`
 
-Dev brasileiro em Badajoz (Extremadura, Espanha). Founder de SaaS e construtor de **pipelines de agentes de IA** — o que interessa não é saber os comandos, é saber o que fazer com eles.
+Brazilian dev based in Badajoz, Spain. Founder and full-stack engineer who builds **AI agent pipelines** — because what matters isn't knowing the commands, it's knowing what to do with them.
 
-Trabalho no ponto onde produto, engenharia e IA se encontram: sistemas que **automatizam o chato, não o humano**. Sem framework mágico — só arquitetura e paciência.
+I work where product, engineering and AI meet: systems that **automate the boring, not the human**. No magic framework — just architecture and patience.
 
-## O que eu construo
+## What I build
 
-- **SaaS de ponta a ponta** — Laravel + Inertia/React, do banco ao pixel.
-- **Esteiras de agentes de IA** — pipelines que planejam, executam e revisam código sozinhos, com humano nos portões certos.
-- **Automação pessoal** — infra que trabalha por mim enquanto durmo.
+- **End-to-end SaaS** — Laravel + Inertia/React, from the database to the pixel.
+- **AI agent pipelines** — systems that plan, execute and review code on their own, with a human at the right gates.
+- **Personal automation** — infrastructure that works for me while I sleep.
 
 ## Stack
 
 ```
 backend    Laravel · PHP · Python · MySQL · Redis
 frontend   React · Inertia · TypeScript · Tailwind
-ia         LLMs · agent pipelines · orquestração
+ai         LLMs · agent pipelines · orchestration
 infra      Docker · Vapor/AWS · Linux
 ```
 
-## Fala comigo
+## Reach me
 
 - ✉️  **victor.andraad@gmail.com**
 - 💼  [LinkedIn](https://www.linkedin.com/in/victorandraad)
 
 ---
 
-<sub>**Resolvo o teu problema.** · vitinho🇧🇷 ↔ Victor Andrade</sub>
+<sub>**I solve your problem.** · vitinho🇧🇷 ↔ Victor Andrade</sub>
